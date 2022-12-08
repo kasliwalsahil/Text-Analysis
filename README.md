@@ -1,5 +1,5 @@
 <h1 align="center">
-             Complete Text Analysis Web App
+             Text Analysis Web App
 </h1>
 
 This app is used to perform an indepth analysis of a text
